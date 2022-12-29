@@ -23,7 +23,7 @@ Connect with me
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ad1tya-prasad&show_icons=true&theme=dark&locale=en" alt="ad1tya-prasad" /></p>
 
 -----------------------
-🔥 **My Contributions!**
+🔥 **My Contributions**
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ad1tya-prasad&theme=dark" alt="ad1tya-prasad" /></p>
