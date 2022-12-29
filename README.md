@@ -12,6 +12,9 @@
 
 - 💬 Ask me about: **What im working on!**
 
+- 💼 Curently Seeking Summer 2023 Internship Opportunities!
+
+
 #### 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/aditya-prasad-315264183/)
