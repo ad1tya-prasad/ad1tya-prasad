@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **ap.prasad@outlook.com**
 
-- 💬 Ask me about: **what im working on!**
+- 💬 Ask me about: **What im working on!**
 
 #### 🤝 Connect with me
 
