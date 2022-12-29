@@ -10,7 +10,9 @@
 
 - 📫 How to reach me **ap.prasad@outlook.com**
 
-Connect with me
+- 💬 Ask me about **What im working on!**
+
+#### 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/aditya-prasad-315264183/)
 
