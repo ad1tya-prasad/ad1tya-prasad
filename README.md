@@ -1,4 +1,4 @@
-![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-76659982bd.gif)]
+![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-cd7e18b394.gif)
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate software developer from Canada</h3>
 
