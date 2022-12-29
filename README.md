@@ -31,6 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad1tya-prasad&theme=dark&locale=en" alt="ad1tya-prasad" /></p>
 
 -----------------------
-#### 🔥 My Contributions
+#### <img src="https://media.tenor.com/UPltgIK-cU8AAAAM/fire-fireball.gif" width="50"> My contributions!
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ad1tya-prasad&theme=dark" alt="ad1tya-prasad" /></p>
 
