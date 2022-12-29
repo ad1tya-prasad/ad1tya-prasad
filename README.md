@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A passionate Software developer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ad1tya-prasad&label=Profile%20views&color=0e75b6&style=flat" alt="ad1tya-prasad" /> </p>
 
