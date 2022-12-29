@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h1 align="center">Hi there 👋, I'm Aditya</h1>
 <h3 align="center">A passionate software developer from Canada</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/a5/fd/6ea5fd598477f4eb62253fc3004039ca.gif">
