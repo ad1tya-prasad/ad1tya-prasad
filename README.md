@@ -31,6 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad1tya-prasad&theme=dark&locale=en" alt="ad1tya-prasad" /></p>
 
 -----------------------
-#### <img src="https://i.pinimg.com/originals/1b/34/df/1b34dfc0a9bf5563e0f960a24b6862db.gif" width="50"> My contributions!
+#### <img src="https://i.pinimg.com/originals/1b/34/df/1b34dfc0a9bf5563e0f960a24b6862db.gif" width="50"> My contributions !
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ad1tya-prasad&theme=dark" alt="ad1tya-prasad" /></p>
 
