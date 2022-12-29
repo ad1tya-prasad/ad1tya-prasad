@@ -1,8 +1,8 @@
-![MasterHead](https://www.tumblr.com/scipunk/179144317717/sp-102-black-magic-m-66-1987)](https://rishavchanda.io)
+![MasterHead](https://i.pinimg.com/originals/6e/a5/fd/6ea5fd598477f4eb62253fc3004039ca.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate software developer from Canada</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.tumblr.com/scipunk/179144317717/sp-102-black-magic-m-66-1987">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/a5/fd/6ea5fd598477f4eb62253fc3004039ca.gif">
 
 - 🔭 I’m currently working on [The Relectric Car Team UI](https://github.com/relectric-car-team/user-interface)
 
