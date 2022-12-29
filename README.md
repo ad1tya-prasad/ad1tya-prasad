@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ad1tya-prasad&show_icons=true&theme=dark&locale=en" alt="ad1tya-prasad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad1tya-prasad&theme=white-white" alt="ad1tya-prasad" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad1tya-prasad&theme=black-white" alt="ad1tya-prasad" /></p>
 
 -----------------------
 #### 🔥 My Contributions
