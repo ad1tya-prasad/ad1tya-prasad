@@ -12,7 +12,7 @@
 
 - 💬 Ask me about: **What im working on!**
 
-- 💼 Curently Seeking Summer 2023 Internship Opportunities!
+- 💼 Currently Seeking Summer 2023 Internship Opportunities!
 
 
 #### 🤝 Connect with me
