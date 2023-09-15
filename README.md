@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/a5/fd/6ea5fd598477f4eb62253fc3004039ca.gif">
 
-- 🔭 I’m currently working on: [The Relectric Car Team UI](https://github.com/relectric-car-team/user-interface)
+- 🔭 I’m currently working on: [Internship!]()
 
 - 📚 I’m currently learning: **React and Typescript**
 
