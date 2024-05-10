@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on: [Internship!]()
 
-- 📚 I’m currently learning: **React and Typescript**
+- 📚 I’m currently learning: **Power BI and Data Engineering!**
 
 - 📫 How to reach me: **ap.prasad@outlook.com**
 
